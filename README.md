@@ -4,7 +4,7 @@
 das
 3070 incidents included.
 
-Let's make Web3 secure! Join [Discord](https://discord.gg/Fjyngakf3h)daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsadasdsa
+Let's make Web3 secure! Join [Discord](https://discord.gg/Fjyngakf3h)daaaaaaaaaadasdsadasaaaaaaaaaaaaaaaaaaaaadsadasdsa
 
 Notion: [101 root cause analysis of past DeFi hacked incidents](https://web3sec.xrex.io/)
 
